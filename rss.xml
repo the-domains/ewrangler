@@ -4,7 +4,7 @@
         <description><![CDATA[eWrangler]]></description>
         <link>https://thegrid.ai/ewrangler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:21:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewrangler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Canon]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ewrangler/parallax-unit/index.html</link>
             <guid isPermaLink="false">a67aa29d-8265-42ed-865d-a569a23e3b11</guid>
             <pubDate>Mon, 25 Apr 2016 19:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIGITAL CAMPAIGNS]]></title>
+            <description><![CDATA[<p>DIGITAL CAMPAIGNS</p>]]></description>
+            <link>https://thegrid.ai/ewrangler/digital-campaigns/index.html</link>
+            <guid isPermaLink="false">c03395f6-33cd-4cde-a544-9f8d3f92dcd9</guid>
+            <pubDate>Mon, 25 Apr 2016 16:44:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
