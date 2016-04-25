@@ -4,21 +4,21 @@
         <description><![CDATA[eWrangler]]></description>
         <link>https://thegrid.ai/ewrangler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 16:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 16:37:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ewrangler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Parallax ]]></title>
+            <description><![CDATA[<article><h1>Parallax </h1><p>Condé Nast Traveler Voyages</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0362188a-242f-470b-9c97-689aa4738cad.gif"></article>]]></description>
+            <link>https://thegrid.ai/ewrangler/parallax-units-conde-nast-traveler-voyages/index.html</link>
+            <guid isPermaLink="false">faf286b5-ccf6-4887-a361-6d535ca43b75</guid>
+            <pubDate>Mon, 25 Apr 2016 16:33:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parallax Unit]]></title>
             <description><![CDATA[<article><h1>Parallax Unit</h1><p>Canon</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55463269-22da-41e6-865d-c07ab708b4f2.gif"></article>]]></description>
             <link>https://thegrid.ai/ewrangler/parallax-unit/index.html</link>
             <guid isPermaLink="false">a67aa29d-8265-42ed-865d-a569a23e3b11</guid>
             <pubDate>Mon, 25 Apr 2016 16:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0362188a-242f-470b-9c97-689aa4738cad.gif">]]></description>
-            <link>https://thegrid.ai/ewrangler/parallax-units-conde-nast-traveler-voyages/index.html</link>
-            <guid isPermaLink="false">faf286b5-ccf6-4887-a361-6d535ca43b75</guid>
-            <pubDate>Mon, 25 Apr 2016 16:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
