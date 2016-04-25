@@ -1,20 +1,26 @@
 ---
-authors: []
-dateModified: '2016-04-25T16:32:11.701Z'
-keywords: []
-publisher: {}
-title: Parallax Unit
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
-description: Canon
+inLanguage: null
+keywords: []
+description: Charleston
+datePublished: '2016-04-25T16:41:01.918Z'
+dateModified: '2016-04-25T16:38:57.022Z'
+title: ''
 author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-datePublished: '2016-04-25T16:32:37.849Z'
 sourcePath: _posts/2016-04-25-parallax-unit.md
 published: true
 url: parallax-unit/index.html
 _type: Article
 
 ---
-![Canon](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55463269-22da-41e6-865d-c07ab708b4f2.gif)
+Charleston
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0efcfad-bd57-4a7f-a483-213595a43521.gif)
